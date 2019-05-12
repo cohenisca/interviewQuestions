@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\interviewQuestions\interviewQuestions\bin\Debug\interviewQuestions.exe.config
+C:\Users\user\Source\Repos\interviewQuestions\interviewQuestions\bin\Debug\interviewQuestions.exe
+C:\Users\user\Source\Repos\interviewQuestions\interviewQuestions\bin\Debug\interviewQuestions.pdb
+C:\Users\user\Source\Repos\interviewQuestions\interviewQuestions\obj\Debug\interviewQuestions.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\interviewQuestions\interviewQuestions\obj\Debug\interviewQuestions.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\interviewQuestions\interviewQuestions\obj\Debug\interviewQuestions.exe
+C:\Users\user\Source\Repos\interviewQuestions\interviewQuestions\obj\Debug\interviewQuestions.pdb
