@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Intel\Q1.cs" />
+    <Compile Include="Intel\Q2.cs" />
     <Compile Include="Others\CalculateExpression.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -51,6 +52,9 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Doc\חומר טכני לראיון עבודה.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Intel\reverseLinkedList.cpp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

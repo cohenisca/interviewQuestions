@@ -16,7 +16,8 @@ namespace interviewQuestions
             //Console.WriteLine();
             //q1.PrintArray(q1.bollsArray);
 
-            Others.CalculateExpression a = new Others.CalculateExpression();
+            //    Others.CalculateExpression a = new Others.CalculateExpression();
+            Intel.Q2 a = new Intel.Q2();
 
             Console.ReadKey();
         }
