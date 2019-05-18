@@ -10,11 +10,13 @@ namespace interviewQuestions
     {
         static void Main(string[] args)
         {
-            Intel.Q1 q1 = new Intel.Q1();
-            q1.PrintArray(q1.bollsArray);
-            q1.arrangeBolls();
-            Console.WriteLine();
-            q1.PrintArray(q1.bollsArray);
+            //Intel.Q1 q1 = new Intel.Q1();
+            //q1.PrintArray(q1.bollsArray);
+            //q1.arrangeBolls();
+            //Console.WriteLine();
+            //q1.PrintArray(q1.bollsArray);
+
+            Others.CalculateExpression a = new Others.CalculateExpression();
 
             Console.ReadKey();
         }
